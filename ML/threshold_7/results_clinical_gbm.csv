@@ -1,0 +1,19 @@
+"","V1"
+"Accuracy",0.0621468926553672
+"Kappa",0.00183864057072735
+"AccuracyLower",0.0493531095169865
+"AccuracyUpper",0.0770638428607259
+"AccuracyNull",0.979015334947538
+"AccuracyPValue",1
+"McnemarPValue",3.00850640299487e-254
+"Sensitivity",0.0420445177246496
+"Specificity",1
+"Pos Pred Value",1
+"Neg Pred Value",0.0218855218855219
+"Precision",1
+"Recall",0.0420445177246496
+"F1",0.0806962025316456
+"Prevalence",0.979015334947538
+"Detection Rate",0.0411622276029056
+"Detection Prevalence",0.0411622276029056
+"Balanced Accuracy",0.521022258862325
