@@ -1,5 +1,3 @@
-library(openxlsx)
-
 # Function to perform logistic and linear regression and return the Beta Estimate/Odds Ratio, P value and CI
 perform_regression <- function(data,
                                response_col, 
